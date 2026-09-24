@@ -1,0 +1,8 @@
+## Interface: 11507
+## Title: AsmonGone
+## Notes: Because some words are better left unread. Filters unwanted chat keywords with a customizable blacklist.
+## Author: Cole
+## Version: 1.0.0
+## SavedVariables: AsmonGoneDB
+
+AsmonGone.lua
