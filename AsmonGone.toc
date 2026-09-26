@@ -1,8 +1,8 @@
-## Interface: 11507
+## Interface: 16001, 11509
 ## Title: AsmonGone
-## Notes: Because some words are better left unread. Filters unwanted chat keywords with a customizable blacklist.
+## Notes: Because some words are better left unread. Filters unwanted chat, bubbles, and Olympus-related invites.
 ## Author: Cole
-## Version: 1.0.0
+## Version: 1.1.0
 ## SavedVariables: AsmonGoneDB
 
 AsmonGone.lua
